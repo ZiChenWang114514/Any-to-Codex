@@ -116,6 +116,7 @@ Unit tests do not require credentials. The real smoke test creates a temporary G
 | [Any-to-DeepSeek-Harness](https://github.com/ZiChenWang114514/Any-to-DeepSeek-Harness) | DeepSeek Harness |
 | [Any-to-Claude-Code](https://github.com/ZiChenWang114514/Any-to-Claude-Code) | Claude Code |
 | [Any-to-Pi](https://github.com/ZiChenWang114514/Any-to-Pi) | Pi |
+| [Any-to-Antigravity](https://github.com/ZiChenWang114514/Any-to-Antigravity) | Google Antigravity CLI |
 
 ## License
 
