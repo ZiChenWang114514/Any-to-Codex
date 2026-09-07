@@ -18,6 +18,8 @@ Connect any compatible coding harness to the local Codex CLI. The adapter starts
 
 It uses the user's existing ChatGPT login and Codex configuration. It does not install Codex, copy credentials, choose a global model, or bypass Codex permissions.
 
+On Windows, the adapter prefers a working native `codex.exe` and probes each available launcher before use. This avoids treating an npm `codex.cmd` shim as healthy when its optional platform package is missing; the shim remains a fallback when it is the only working installation.
+
 ## Proof first
 
 ```powershell
